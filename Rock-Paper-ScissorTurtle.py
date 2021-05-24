@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 14 13:33:50 2021
-
-@author: HJalgaon
-"""
-
 import turtle
 import random
 import os
